@@ -15,11 +15,10 @@ print(im.format, im.size, im.mode)
 # taille de l'image
 width, height = im.size
 im_new = Image.new("RGB", (width, height), (255, 255, 255))
-bande=1
 def zaha():
 # valeurs du pixel de coordonnées x, y (l'origine (0, 0) est en haut à gauche)
     for x in range(width):
-        for y in range(0,height,bande):
+        for y in range(0,height,1):
 
             pixel = im.getpixel((x, y))
             p_rouge = pixel[0]
