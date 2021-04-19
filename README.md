@@ -38,4 +38,4 @@ La fonction: zaha(): Une fonction qui manipule une image du joueur de football i
 
 La fonction: cr7(): Une fonction qui manipule deux images différentes d'un des meilleurs joueurs de football de l'histoire du sport: Cristiano Ronaldo, et colle ces deux images sur une seule, les rassemblant. Une image de Cristiano Ronaldo le représente dans son club actuel: Juventus F.C, et l'autre dans son ancien club, où il a rencontré le plus de succès: Real Madrid C.F. Ces deux parties importantes de sa carrière sont donc mis côte à côte sur une seule image.
 
-La fonction: pogba(): Une fonction qui découpe une image de Paul Pogba(joueur de football francais, qui joue également au Manchester United) en plusieurs morceaux. 
+La fonction: pogba(): Une fonction qui découpe une image de Paul Pogba(joueur de football francais, qui joue également au Manchester United) en plusieurs bandes diagonales. 
