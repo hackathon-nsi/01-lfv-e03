@@ -24,7 +24,7 @@
 
 16.04: Fonction Pogba en cours et en progression; Constantin Duteil
 
-19.04: Fonction Pogba terminé; Constantin Duteil
+19.04: Fonction Pogba ; Constantin Duteil
 
 19.04: Fonction Zaha terminé; Zouher Debs
 
