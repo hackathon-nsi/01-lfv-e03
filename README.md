@@ -22,6 +22,8 @@
 
 12.04: Revoir le travail avec l'équipe; discuter nos projets et la distrubtion du travail avec M. Dauce.
 
+16.04: Fonction Pogba en cours et en progression; Constantin Duteil
+
 19.04: Fonction Pogba terminé; Constantin Duteil
 
 19.04: Fonction Zaha terminé; Zouher Debs
