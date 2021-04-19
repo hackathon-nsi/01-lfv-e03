@@ -10,26 +10,25 @@ print(im.format, im.size, im.mode)
 
 # taille de l'image
 width, height = im.size
-im_new = Image.new("RGB", (width, height), (700, 394))
+im_new = Image.new("RGB", (width, height), (255,255,255))
 # valeurs du pixel de coordonnées x, y (l'origine (0, 0) est en haut à gauche)
 def pogba():   
-    for x in range(width):
-        for y in range(0,height):
+        for x in range(width):
+            for y in range(0,height):
 
-            pixel = im.getpixel((x, y))
-            p_rouge = pixel[0]
-            p_vert =  pixel[1]
-            p_bleu =  pixel[2]
-            im_new.putpixel((x,y),(p_rouge, p_vert, p_bleu))
+                pixel = im.getpixel((x, y))
+                p_rouge = pixel[0]
+                p_vert =  pixel[1]
+                p_bleu =  pixel[2]
+                im_new.putpixel((x,y),(p_rouge, p_vert, p_bleu))
     
-    for x in range(0,height):
-        for y in range(0,width):
-            a= (x, y, x+width, y+height)
-            b= im.crop(a)
+        for x in range(0,height):
+            for y in range(0,width):
+                a= (x, y, x+width, y+height)
+                b= im.crop(a)
 
-# sauvegarder la nouvelle image             
-o.save(os.path.join(path,("pog.jpg"))
-# affichage de l'image
-display(im)
-#im.show()
-im_new.show()
+# sauvegarder la nouvelle image et la montrer             
+        im_new.save("outcome.png")
+        im_new.show()
+
+pogba()
