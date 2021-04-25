@@ -2,7 +2,7 @@
 
 **SUJET** : https://github.com/hackathon-nsi/h7n-nsi-01
 
-**PROGRESSION** (*changer les - par des # | # = 5%*)<br /> 
+**PROGRESSION** (*changer les - par des # | # = 5%*)<br />  
 |###############-----|
 
 <hr />
