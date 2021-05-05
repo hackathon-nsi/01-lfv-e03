@@ -33,6 +33,7 @@
 
 
 
+
 ## DOCUMENTATION
 La fonction: zaha(): Une fonction qui manipule une image du joueur de football ivoirien, Wilfried Zaha, en ajoutant des petits logos de son club (Crystal Palace F.C), la ligue domsetique dans laquelle il joue (Premier League) et le drapeau de son pays (Côte d'Ivoire), qui ensemble forment le numéro 11, qui est le numéro qu'il porte actuellement dans son club.
 
