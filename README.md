@@ -32,9 +32,9 @@
 
 06.05: Le programme principal a été mis sur GitHub; Zouher Debs
 
-06.05: Projet Hackaton terminé
+06.05: Projet Hackathon terminé
 
-07.05: Présentation du Projet Hackaton 
+07.05: Présentation du Projet Hackathon 
 
 
 
