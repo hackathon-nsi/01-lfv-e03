@@ -33,7 +33,7 @@ def pogba(image_path, out_name, outdir, slice_size):
         img2= Image.open("pogba_2.png")
         img3= Image.open("pogba_3.png")
         img4= Image.open("pogba_4.png")
-        new_img= Image.new('RGB', (img1.width, img1.height + img2.height + img3.height + img4.height),(255,255,255))
+        new_img= Image.new('RGB', (img1.width, img1.height + img2.height + img3.height + img4.height),(0,255,0))
         new_img.paste(img1, (0, 0))
         new_img.paste(img2, (0, 100))
         new_img.paste(img3, (0, 210))
