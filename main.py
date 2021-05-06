@@ -21,4 +21,4 @@ elif x == "cr7":
     cr7()
     
 elif x=="pogba":
-    pogba()
+    pogba(image_path, out_name, outdir, slice_size)
