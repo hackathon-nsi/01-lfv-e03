@@ -8,6 +8,9 @@ from fonction_zaha import*
 from fonction_ronaldo import*
 
 
+from fonction_pogba import*
+
+
 
 x = input("Si vous voulez voir une image de Zaha tapez: zaha; si vous voulez voir un image de ronaldo tapez: cr7")
 
@@ -16,3 +19,6 @@ if x == "zaha":
 
 elif x == "cr7":
     cr7()
+    
+elif x=="pogba":
+    pogba()
