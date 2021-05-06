@@ -37,7 +37,7 @@ def long_slice(image_path, out_name, outdir, slice_size):
         new_img.paste(img2, (0, 100))
         new_img.paste(img3, (0, 210))
         new_img.paste(img4, (0, 320))
-        new_img.save("zzz.jpg")
+        new_img.save("ppog.jpg")
         new_img.show()
         time.show(1)
        
