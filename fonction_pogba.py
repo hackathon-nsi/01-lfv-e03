@@ -8,7 +8,7 @@ img = Image.open("pog.jpg")
 width, height = img.size
 new_img= Image.new("RGB",(height,width),(255,255,255))
 
-def long_slice(image_path, out_name, outdir, slice_size):
+def pogba(image_path, out_name, outdir, slice_size):
     """slice an image into parts slice_size tall"""
     upper = 0
     left = 0
@@ -44,6 +44,6 @@ def long_slice(image_path, out_name, outdir, slice_size):
         
         
 if __name__ == '__main__':
-    long_slice("pog.jpg","pogba", os.getcwd(), 90)
+    pogba("pog.jpg","pogba", os.getcwd(), 90)
 
-
+pogba()
